@@ -15,6 +15,7 @@ class EmailAddressParser
  def parse
    emails.each do |email|
      binding.pry
+   end
  end
   
 end
